@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DownloadCenter</string>
+    <string name="wait_download">等待下载</string>
+    <string name="downloading">已下载</string>
+    <string name="pause">暂停</string>
+    <string name="completed">已完成</string>
+    <string name="failed">下载失败</string>
+    <string name="delete_failed">删除失败</string>
+    <string name="continue_download">继续</string>
+    <string name="download_again">重新下载</string>
+    <string name="open_file">打开文件</string>
+    <string name="unkown_size">未知大小</string>
+    <string name="delete">删除</string>
+</resources>

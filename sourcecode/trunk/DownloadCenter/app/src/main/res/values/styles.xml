@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+
+    </style>
+
+
+    <style name="menu_btnStyle">
+        <!--<item name="android:background">@drawable/menu_btn_back</item>-->
+
+        <item name="android:textSize">@dimen/menu_btn_text_size</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/menu_btn_height</item>
+        <item name="android:paddingTop">@dimen/menu_btn_padding_top</item>
+        <item name="android:paddingBottom">@dimen/menu_btn_padding_bottom</item>
+    </style>
+
+</resources>
